@@ -8,6 +8,8 @@
         <outputRelativeToContentRoot value="true" />
         <module name="eureka-client" />
         <module name="eureka-server" />
+        <module name="eureka-server-peer2" />
+        <module name="eureka-server-peer" />
         <module name="eureka-consumer" />
       </profile>
     </annotationProcessing>
